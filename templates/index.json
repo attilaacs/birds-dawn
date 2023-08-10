@@ -1,5 +1,38 @@
 {
   "sections": {
+    "cbf09fbb-646e-4ebd-b31e-748809513316": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16936990736598__cbf09fbb-646e-4ebd-b31e-748809513316-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "putter-grips"
+          }
+        },
+        "template--16936990736598__cbf09fbb-646e-4ebd-b31e-748809513316-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "putter-grips-and-headcovers"
+          }
+        }
+      },
+      "block_order": [
+        "template--16936990736598__cbf09fbb-646e-4ebd-b31e-748809513316-featured_collection-1",
+        "template--16936990736598__cbf09fbb-646e-4ebd-b31e-748809513316-featured_collection-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "4e815c01-1f22-4b69-bfe9-0c72b77d91e4": {
       "type": "slideshow",
       "blocks": {
@@ -101,6 +134,7 @@
         "c8558db4-e5ba-4331-beac-e785fcf81b02",
         "e3a64448-dd23-4381-9b10-c78bf2f1727a"
       ],
+      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
@@ -292,6 +326,7 @@
     }
   },
   "order": [
+    "cbf09fbb-646e-4ebd-b31e-748809513316",
     "4e815c01-1f22-4b69-bfe9-0c72b77d91e4",
     "rich_text",
     "featured_collection",
