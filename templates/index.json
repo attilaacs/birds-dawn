@@ -179,8 +179,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
+        "padding_top": 32,
+        "padding_bottom": 32
       }
     },
     "featured_collection": {
