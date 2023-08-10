@@ -115,21 +115,28 @@
     "rich_text": {
       "type": "rich-text",
       "blocks": {
+        "52cb6e0d-5376-42da-81cb-e96f7db381f3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Inspired by dreamy days<\/p>"
+          }
+        },
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "GOLF CLOTHING, APPAREL, GOLF WEAR...",
+            "heading_size": "h2"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>What ever you call it, you don't even need to golf, Birds is a happy place for all where pure swings, pre-tee refreshments & good times are a plenty. Rollin off the beach & onto the greens with your mates is where it’s at with our brand outta Byron Bay, Australia.<\/p>"
           }
         }
       },
       "block_order": [
+        "52cb6e0d-5376-42da-81cb-e96f7db381f3",
         "heading",
         "text"
       ],
