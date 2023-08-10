@@ -186,20 +186,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "putter-grips-and-headcovers"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "sand-trap-staple-party-shirt",
+            "second_image": true
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "golf-life"
           }
         }
       },
@@ -209,7 +209,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "New at Birds",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
@@ -225,7 +225,8 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=DXmoeJpwcng",
+        "cover_image": "shopify:\/\/shop_images\/maxresdefault_ffbf4cb2-9fed-4abc-94c2-0e633ba1411c.jpg",
         "description": "",
         "full_width": false,
         "color_scheme": "background-1",
