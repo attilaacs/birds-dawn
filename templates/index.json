@@ -256,57 +256,18 @@
         "include_margins": true
       }
     },
-    "5040e119-9bca-4e82-b632-958d6e4e7e6b": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16936990736598__5040e119-9bca-4e82-b632-958d6e4e7e6b-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16936990736598__5040e119-9bca-4e82-b632-958d6e4e7e6b-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16936990736598__5040e119-9bca-4e82-b632-958d6e4e7e6b-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16936990736598__5040e119-9bca-4e82-b632-958d6e4e7e6b-column-1",
-        "template--16936990736598__5040e119-9bca-4e82-b632-958d6e4e7e6b-column-2",
-        "template--16936990736598__5040e119-9bca-4e82-b632-958d6e4e7e6b-column-3"
+    "18a2e961-a182-40f3-bf97-59b59ebea272": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".logo-list {display: flex; flex-wrap: wrap;}",
+        ".logo-list__item {flex-basis: calc(16.666% - 20px); margin: 10px; box-sizing: border-box;}",
+        "@media (max-width: 768px) {.logo-list__item {flex-basis: calc(50% - 20px); }}"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "custom_liquid": "<div class=\"logo-list logo-list--grid\">\n    <div class=\"logo-list__item\">\n      <a class=\"logo-list__item-link\" href=\"https:\/\/www.australiangolfdigest.com.au\/fathers-day-gift-guide\/\">\n      \t<img src=\"\/\/birdsofcondor.com\/cdn\/shop\/files\/GolfDigest_02d2427e-051b-4744-ae8b-d229142ddb6b_1600x.png?v=1662042571\" \/>\n      <\/a>\n    <\/div>\n    <div class=\"logo-list__item\">\n      <a class=\"logo-list__item-link\" href=\"https:\/\/www.gq.com\/gallery\/golf-shirts-for-men\">\n      <img src=\"\/\/birdsofcondor.com\/cdn\/shop\/files\/gq_dfda0865-dec0-49a6-a7ed-b99dd36de7ae_1600x.png?v=1662042627\"\/><\/a>\n    <\/div>\n    <div class=\"logo-list__item\">\n      <a class=\"logo-list__item-link\" href=\"https:\/\/hypebeast.com\/2022\/7\/birds-of-condor-and-coogi-golf-apparel-for-hip-hop-fans\">\n      <img src=\"\/\/birdsofcondor.com\/cdn\/shop\/files\/hypebeast_63954dc7-5462-4a23-a3ef-430676277b55_1600x.png?v=1662042664\"\/><\/a>\n    <\/div>\n    <div class=\"logo-list__item\">\n      <a class=\"logo-list__item-link\" href=\"https:\/\/golf.com\/gear\/golf-apparel\/12-trendy-golf-apparel-brands\/\">\n      <img src=\"\/\/birdsofcondor.com\/cdn\/shop\/files\/golf.com_b218c2c9-334c-495f-9c6b-c784eca9e689_1600x.png?v=1662042691\"\/><\/a>\n    <\/div>\n    <div class=\"logo-list__item\">\n      <a class=\"logo-list__item-link\" href=\"https:\/\/www.caddiemag.com\/shop\/caddie-c-cap\/\">\n      <img src=\"\/\/birdsofcondor.com\/cdn\/shop\/files\/caddie_d34275ac-feff-4a00-aae2-a22a84b0f0e0_1600x.png?v=1662042719\"\/><\/a>\n    <\/div>\n    <div class=\"logo-list__item\">\n      <a class=\"logo-list__item-link\" href=\"https:\/\/www.bloomberg.com\/opinion\/articles\/2022-05-24\/millennials-are-saving-golf-by-rebranding-it\">\n      <img src=\"\/\/birdsofcondor.com\/cdn\/shop\/files\/bloomberg_64bfae6a-2a7c-40d6-b5d1-4e6e771fbadd_1600x.png?v=1662042740\"\/><\/a>\n    <\/div>\n  <\/div>",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
@@ -317,6 +278,6 @@
     "collage",
     "video",
     "169166633486782c44",
-    "5040e119-9bca-4e82-b632-958d6e4e7e6b"
+    "18a2e961-a182-40f3-bf97-59b59ebea272"
   ]
 }
