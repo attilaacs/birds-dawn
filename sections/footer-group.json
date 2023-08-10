@@ -25,11 +25,10 @@
             "show_social": true
           }
         },
-        "e7ab7093-8e4e-4373-97f1-2a9a17e19ce0": {
-          "type": "text",
+        "c4a87b80-ee7f-4b1e-b438-ca7399e85ef7": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
           "settings": {
-            "heading": "Mates of Condor",
-            "subtext": ""
+            "formId": ""
           }
         }
       },
@@ -37,7 +36,7 @@
         "footer-0",
         "footer-1",
         "5589eaf5-83f4-4329-8903-e8d2dbc8082d",
-        "e7ab7093-8e4e-4373-97f1-2a9a17e19ce0"
+        "c4a87b80-ee7f-4b1e-b438-ca7399e85ef7"
       ],
       "settings": {
         "color_scheme": "background-1",
