@@ -32,7 +32,7 @@
             "link": "https:\/\/birdsofcondor.com\/collections\/golf-life",
             "button_style_secondary": true,
             "box_align": "bottom-center",
-            "show_text_box": false,
+            "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "accent-1",
@@ -43,7 +43,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Headcovers.jpg",
-            "heading": "Headcovers",
+            "heading": "<strong>Headcovers<\/strong>",
             "heading_size": "h1",
             "subheading": "Don't be a grub, cover your club",
             "button_label": "Shop Now",
@@ -53,7 +53,43 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "c8558db4-e5ba-4331-beac-e785fcf81b02": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KeeperOfTheGreens.jpg",
+            "heading": "<strong>KEEPER OF THE GREENS<\/strong>",
+            "heading_size": "h1",
+            "subheading": "Lawnmower, weed whacker and gopher lovers unite!",
+            "button_label": "Shop Now",
+            "link": "https:\/\/birdsofcondor.com\/collections\/green-keeper",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
             "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "e3a64448-dd23-4381-9b10-c78bf2f1727a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Swing-Easy.jpg",
+            "heading": "<strong>Swing Easy G.C<\/strong>",
+            "heading_size": "h1",
+            "subheading": "FEAT. HAPPY PLACE CHAMPIONS FIFA WORLD CUP DROP",
+            "button_label": "Shop Now",
+            "link": "https:\/\/birdsofcondor.com\/collections\/swing-easy",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
         }
@@ -61,7 +97,9 @@
       "block_order": [
         "template--16936990736598__4e815c01-1f22-4b69-bfe9-0c72b77d91e4-slide-1",
         "template--16936990736598__4e815c01-1f22-4b69-bfe9-0c72b77d91e4-slide-2",
-        "ab4e36bf-be1e-480c-b454-cd6e0bbb6b7c"
+        "ab4e36bf-be1e-480c-b454-cd6e0bbb6b7c",
+        "c8558db4-e5ba-4331-beac-e785fcf81b02",
+        "e3a64448-dd23-4381-9b10-c78bf2f1727a"
       ],
       "settings": {
         "layout": "full_bleed",
