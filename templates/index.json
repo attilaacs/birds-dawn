@@ -25,24 +25,43 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Golf-Life-web-banner.jpg",
-            "heading": "Golf is Life",
+            "heading": "<strong>Golf is Life<\/strong>",
             "heading_size": "h1",
             "subheading": "Live Like A Lord",
             "button_label": "Button label",
             "link": "https:\/\/birdsofcondor.com\/collections\/golf-life",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "ab4e36bf-be1e-480c-b454-cd6e0bbb6b7c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Headcovers.jpg",
+            "heading": "Headcovers",
+            "heading_size": "h1",
+            "subheading": "Don't be a grub, cover your club",
+            "button_label": "Shop Now",
+            "link": "https:\/\/birdsofcondor.com\/collections\/headcovers",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
         "template--16936990736598__4e815c01-1f22-4b69-bfe9-0c72b77d91e4-slide-1",
-        "template--16936990736598__4e815c01-1f22-4b69-bfe9-0c72b77d91e4-slide-2"
+        "template--16936990736598__4e815c01-1f22-4b69-bfe9-0c72b77d91e4-slide-2",
+        "ab4e36bf-be1e-480c-b454-cd6e0bbb6b7c"
       ],
       "settings": {
         "layout": "full_bleed",
