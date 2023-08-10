@@ -271,11 +271,12 @@
     "1b17962d-87b3-4957-89e5-c66ba60170ab": {
       "type": "featured-blog",
       "custom_css": [
-        "h3 {font-size: 14px; text-align:center;}",
-        "p {font-size: 12px; text-align:center;}"
+        "h2 {text-align: center;}",
+        "h3 {font-size: 14px; text-align: center;}",
+        "p {font-size: 12px; text-align: center;}"
       ],
       "settings": {
-        "heading": "Blog posts",
+        "heading": "Blog: The 19th",
         "heading_size": "h2",
         "blog": "the-19th",
         "post_limit": 3,
