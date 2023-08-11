@@ -54,10 +54,10 @@
         "cbe9cb73-8168-459b-a3a4-df6856cbb455": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Care Guide",
-            "icon": "washing",
-            "content": "<p>{{ product.metafields.descriptors.care_guide | metafield_tag }}<\/p>",
-            "page": ""
+            "heading": "Size Chart",
+            "icon": "ruler",
+            "content": "",
+            "page": "{{ product.metafields.custom.size_chart_page.value }}"
           }
         }
       },
