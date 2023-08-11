@@ -57,34 +57,16 @@
             "text_alignment_mobile": "center"
           }
         },
-        "2b5370be-6b41-4c67-bd46-0a6dd035b304": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/LOS-Shopify-banner_2000x1000_b168837b-0f1d-4936-a71d-b4566b61f66f.jpg",
-            "heading": "Lords Of Swing is now LIVE",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Purchase Now",
-            "link": "https:\/\/lords.birdsofcondor.com\/nft\/birds-of-condor-2023-09-27-1dc0?utm_campaign=Web%203%20Minted&utm_medium=email&utm_source=Mates%20of%20Condor%20%28Active%20Profiles%20for%20Campaigns%29&_kx=",
-            "button_style_secondary": true,
-            "box_align": "bottom-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "5ea3350c-55dc-4556-a1e3-a86cc7110599": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BOC-GREENS-MONO-2000x1000.png",
+            "image": "shopify:\/\/shop_images\/KeeperOfTheGreens_2000x_b2ac683f-0984-4cd8-ace6-0cf28ff8155a.jpg",
             "heading": "KEEPER OF THE GREENS",
             "heading_size": "h2",
             "subheading": "Lawnmower, weed whacker and gopher lovers unite!",
             "button_label": "Shop Now",
             "link": "shopify:\/\/collections\/green-keeper",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": true,
             "text_alignment": "center",
@@ -98,7 +80,6 @@
         "template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-0",
         "template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-1",
         "4a57b806-ce7c-40a3-b0bf-43a48effbfc3",
-        "2b5370be-6b41-4c67-bd46-0a6dd035b304",
         "5ea3350c-55dc-4556-a1e3-a86cc7110599"
       ],
       "settings": {
