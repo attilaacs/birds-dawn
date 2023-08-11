@@ -1,1 +1,411 @@
-{"sections":{"654493f5-4bf2-4f04-a47d-1223dace1879":{"type":"slideshow","blocks":{"template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/birds-of-condor-putter-grips.jpg","heading":"Get A Grip","heading_size":"h2","subheading":"","button_label":"Shop Now","link":"shopify:\/\/collections\/putter-grips-headcovers","button_style_secondary":true,"box_align":"bottom-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"accent-1","text_alignment_mobile":"center"}},"template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Putter-Grips-Headcovers-Banner-Greener_4000x_20ef335d-8af2-4692-a268-ee35f765a26d.jpg","heading":"Putter Grips & Headcovers","heading_size":"h2","subheading":"","button_label":"Shop Now","link":"shopify:\/\/collections\/putter-grips","button_style_secondary":true,"box_align":"bottom-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"accent-1","text_alignment_mobile":"center"}},"4a57b806-ce7c-40a3-b0bf-43a48effbfc3":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/country-club-banner.png","heading":"COUNTRY CLUB","heading_size":"h2","subheading":"","button_label":"Shop Now","link":"shopify:\/\/collections\/country-club","button_style_secondary":true,"box_align":"bottom-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"accent-1","text_alignment_mobile":"center"}},"2b5370be-6b41-4c67-bd46-0a6dd035b304":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/LOS-Shopify-banner_2000x1000_b168837b-0f1d-4936-a71d-b4566b61f66f.jpg","heading":"Lords Of Swing is now LIVE","heading_size":"h2","subheading":"","button_label":"Purchase Now","link":"https:\/\/lords.birdsofcondor.com\/nft\/birds-of-condor-2023-09-27-1dc0?utm_campaign=Web%203%20Minted&utm_medium=email&utm_source=Mates%20of%20Condor%20%28Active%20Profiles%20for%20Campaigns%29&_kx=","button_style_secondary":true,"box_align":"bottom-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"accent-1","text_alignment_mobile":"center"}},"5ea3350c-55dc-4556-a1e3-a86cc7110599":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/BOC-GREENS-MONO-2000x1000.png","heading":"KEEPER OF THE GREENS","heading_size":"h2","subheading":"Lawnmower, weed whacker and gopher lovers unite!","button_label":"Shop Now","link":"shopify:\/\/collections\/green-keeper","button_style_secondary":true,"box_align":"bottom-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"accent-1","text_alignment_mobile":"center"}}},"block_order":["template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-0","template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-1","4a57b806-ce7c-40a3-b0bf-43a48effbfc3","2b5370be-6b41-4c67-bd46-0a6dd035b304","5ea3350c-55dc-4556-a1e3-a86cc7110599"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"dots","auto_rotate":true,"change_slides_speed":5,"image_behavior":"none","show_text_below":true,"accessibility_info":"Slideshow with featured products"}},"image_banner":{"type":"image-banner","disabled":true,"blocks":{"heading":{"type":"heading","settings":{"heading":"Lords of Swing is now LIVE","heading_size":"h0"}},"button":{"type":"buttons","settings":{"button_label_1":"Purchase Now","button_link_1":"https:\/\/lords.birdsofcondor.com\/nft\/birds-of-condor-2023-09-27-1dc0?utm_campaign=Web%203%20Minted&utm_medium=email&utm_source=Mates%20of%20Condor%20%28Active%20Profiles%20for%20Campaigns%29&_kx=","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading","button"],"settings":{"image":"shopify:\/\/shop_images\/LOS-Shopify-banner_2000x1000_b168837b-0f1d-4936-a71d-b4566b61f66f_3000x_copy.jpg","image_overlay_opacity":10,"image_height":"large","desktop_content_position":"bottom-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"accent-1","image_behavior":"ambient","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"023ca449-0f83-4200-8a10-5641988f7660":{"type":"collection-list","blocks":{"template--19119007760703__023ca449-0f83-4200-8a10-5641988f7660-1684913230756a7e84-0":{"type":"featured_collection","settings":{"collection":"headwear"}},"template--19119007760703__023ca449-0f83-4200-8a10-5641988f7660-1684913230756a7e84-1":{"type":"featured_collection","settings":{"collection":"polos-shirts"}},"template--19119007760703__023ca449-0f83-4200-8a10-5641988f7660-1684913230756a7e84-2":{"type":"featured_collection","settings":{"collection":"accessories"}}},"block_order":["template--19119007760703__023ca449-0f83-4200-8a10-5641988f7660-1684913230756a7e84-0","template--19119007760703__023ca449-0f83-4200-8a10-5641988f7660-1684913230756a7e84-1","template--19119007760703__023ca449-0f83-4200-8a10-5641988f7660-1684913230756a7e84-2"],"settings":{"title":"","heading_size":"h2","image_ratio":"square","columns_desktop":3,"color_scheme":"background-1","show_view_all":false,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"featured_collection":{"type":"featured-collection","custom_css":["h2 {text-align: center; text-transform: uppercase; font-size: 1.2rem;}"],"settings":{"title":"Crowd Faves","heading_size":"h2","description":"","show_description":false,"description_style":"body","collection":"all","products_to_show":5,"columns_desktop":5,"full_width":true,"show_view_all":false,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"background-1","image_ratio":"square","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":true,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":44,"padding_bottom":44}},"4a9f0178-9ece-45b8-9471-a3f5a2532da9":{"type":"image-banner","blocks":{"template--19119007760703__4a9f0178-9ece-45b8-9471-a3f5a2532da9-1684820547128b445a-0":{"type":"heading","settings":{"heading":"GOLF CLOTHING, APPAREL, GOLF WEAR...","heading_size":"h1"}},"template--19119007760703__4a9f0178-9ece-45b8-9471-a3f5a2532da9-1684820547128b445a-1":{"type":"text","settings":{"text":"What ever you call it, you don't even need to golf, Birds is a happy place for all where pure swings, pre-tee refreshments & good times are a plenty. Rollin off the beach & onto the greens with your mates is where it’s at with our brand outta Byron Bay, Australia.","text_style":"body"}},"template--19119007760703__4a9f0178-9ece-45b8-9471-a3f5a2532da9-1684820547128b445a-2":{"type":"buttons","settings":{"button_label_1":"About Us","button_link_1":"shopify:\/\/pages\/about-us","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--19119007760703__4a9f0178-9ece-45b8-9471-a3f5a2532da9-1684820547128b445a-0","template--19119007760703__4a9f0178-9ece-45b8-9471-a3f5a2532da9-1684820547128b445a-1","template--19119007760703__4a9f0178-9ece-45b8-9471-a3f5a2532da9-1684820547128b445a-2"],"settings":{"image":"shopify:\/\/shop_images\/birds-of-condor-coogi_3000x_c4573bef-033f-4550-acf7-c0755cb3b158.jpg","image_overlay_opacity":0,"image_height":"adapt","desktop_content_position":"bottom-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"inverse","image_behavior":"ambient","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"168488975376fc91fd":{"type":"apps","blocks":{"dde934f3-7b13-4038-9c0b-fadf4bc2c51d":{"type":"shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5","settings":{"heading_size":20,"feed_width":100,"html_area":""}}},"block_order":["dde934f3-7b13-4038-9c0b-fadf4bc2c51d"],"settings":{"include_margins":true}},"c3c0821d-1e6e-458b-8282-66a9e16d4aef":{"type":"multicolumn","disabled":true,"blocks":{"template--19119007760703__c3c0821d-1e6e-458b-8282-66a9e16d4aef-1684914825a686cfb8-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/GolfDigest_02d2427e-051b-4744-ae8b-d229142ddb6b.png","title":"","text":"","link_label":"","link":""}},"1047eba1-6c66-4ef9-8914-16d168254591":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/gq_dfda0865-dec0-49a6-a7ed-b99dd36de7ae.png","title":"","text":"","link_label":"","link":"https:\/\/www.gq.com\/gallery\/golf-shirts-for-men"}},"afc0b404-439d-40ca-a47a-de654018fab2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/hypebeast_63954dc7-5462-4a23-a3ef-430676277b55.png","title":"","text":"","link_label":"","link":"https:\/\/www.gq.com\/gallery\/golf-shirts-for-men"}},"c84ef760-cd32-4490-bac5-0f2b1f32e84a":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/golf.com_b218c2c9-334c-495f-9c6b-c784eca9e689.png","title":"","text":"","link_label":"","link":""}},"0d65e503-df4c-4858-b5a6-cfbf4ebaeb83":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/caddie_d34275ac-feff-4a00-aae2-a22a84b0f0e0.png","title":"","text":"","link_label":"","link":""}},"91d90782-bbfa-42eb-9d82-1cabdf0e0998":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/bloomberg_64bfae6a-2a7c-40d6-b5d1-4e6e771fbadd.png","title":"","text":"","link_label":"","link":""}}},"block_order":["template--19119007760703__c3c0821d-1e6e-458b-8282-66a9e16d4aef-1684914825a686cfb8-0","1047eba1-6c66-4ef9-8914-16d168254591","afc0b404-439d-40ca-a47a-de654018fab2","c84ef760-cd32-4490-bac5-0f2b1f32e84a","0d65e503-df4c-4858-b5a6-cfbf4ebaeb83","91d90782-bbfa-42eb-9d82-1cabdf0e0998"],"custom_css":["h2 {text-align: center; display: block; width: 100%; text-transform: uppercase; font-size: 1.2rem;}"],"settings":{"title":"Featured In","heading_size":"h2","image_width":"full","image_ratio":"adapt","columns_desktop":6,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":28,"padding_bottom":28}},"5c0a4ece-e51f-4ed3-9f1b-80630e150a5f":{"type":"page","custom_css":["h2 {text-align: center; display: block; width: 100%; text-transform: uppercase; font-size: 1.2rem;}"],"settings":{"page":"featured-in","heading_size":"h2","color_scheme":"","padding_top":20,"padding_bottom":20}}},"order":["654493f5-4bf2-4f04-a47d-1223dace1879","image_banner","023ca449-0f83-4200-8a10-5641988f7660","featured_collection","4a9f0178-9ece-45b8-9471-a3f5a2532da9","168488975376fc91fd","c3c0821d-1e6e-458b-8282-66a9e16d4aef","5c0a4ece-e51f-4ed3-9f1b-80630e150a5f"]}
+{
+  "sections": {
+    "654493f5-4bf2-4f04-a47d-1223dace1879": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ColourBlock_a19ad286-210b-4820-b523-2c2c1195281d_2000x_copy.jpg",
+            "heading": "Color Block",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/colour-block",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Putter-Grips-Headcovers-Banner-Greener_4000x_20ef335d-8af2-4692-a268-ee35f765a26d.jpg",
+            "heading": "Putter Grips & Headcovers",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/putter-grips",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "4a57b806-ce7c-40a3-b0bf-43a48effbfc3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/country-club-banner.png",
+            "heading": "COUNTRY CLUB",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/country-club",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "2b5370be-6b41-4c67-bd46-0a6dd035b304": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LOS-Shopify-banner_2000x1000_b168837b-0f1d-4936-a71d-b4566b61f66f.jpg",
+            "heading": "Lords Of Swing is now LIVE",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Purchase Now",
+            "link": "https:\/\/lords.birdsofcondor.com\/nft\/birds-of-condor-2023-09-27-1dc0?utm_campaign=Web%203%20Minted&utm_medium=email&utm_source=Mates%20of%20Condor%20%28Active%20Profiles%20for%20Campaigns%29&_kx=",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "5ea3350c-55dc-4556-a1e3-a86cc7110599": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BOC-GREENS-MONO-2000x1000.png",
+            "heading": "KEEPER OF THE GREENS",
+            "heading_size": "h2",
+            "subheading": "Lawnmower, weed whacker and gopher lovers unite!",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/green-keeper",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-0",
+        "template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-1",
+        "4a57b806-ce7c-40a3-b0bf-43a48effbfc3",
+        "2b5370be-6b41-4c67-bd46-0a6dd035b304",
+        "5ea3350c-55dc-4556-a1e3-a86cc7110599"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow with featured products"
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lords of Swing is now LIVE",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Purchase Now",
+            "button_link_1": "https:\/\/lords.birdsofcondor.com\/nft\/birds-of-condor-2023-09-27-1dc0?utm_campaign=Web%203%20Minted&utm_medium=email&utm_source=Mates%20of%20Condor%20%28Active%20Profiles%20for%20Campaigns%29&_kx=",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LOS-Shopify-banner_2000x1000_b168837b-0f1d-4936-a71d-b4566b61f66f_3000x_copy.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "023ca449-0f83-4200-8a10-5641988f7660": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19119007760703__023ca449-0f83-4200-8a10-5641988f7660-1684913230756a7e84-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "headwear"
+          }
+        },
+        "template--19119007760703__023ca449-0f83-4200-8a10-5641988f7660-1684913230756a7e84-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "polos-shirts"
+          }
+        },
+        "template--19119007760703__023ca449-0f83-4200-8a10-5641988f7660-1684913230756a7e84-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "accessories"
+          }
+        }
+      },
+      "block_order": [
+        "template--19119007760703__023ca449-0f83-4200-8a10-5641988f7660-1684913230756a7e84-0",
+        "template--19119007760703__023ca449-0f83-4200-8a10-5641988f7660-1684913230756a7e84-1",
+        "template--19119007760703__023ca449-0f83-4200-8a10-5641988f7660-1684913230756a7e84-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h2 {text-align: center; text-transform: uppercase; font-size: 1.2rem;}"
+      ],
+      "settings": {
+        "title": "Crowd Faves",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 44,
+        "padding_bottom": 44
+      }
+    },
+    "4a9f0178-9ece-45b8-9471-a3f5a2532da9": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19119007760703__4a9f0178-9ece-45b8-9471-a3f5a2532da9-1684820547128b445a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "GOLF CLOTHING, APPAREL, GOLF WEAR...",
+            "heading_size": "h1"
+          }
+        },
+        "template--19119007760703__4a9f0178-9ece-45b8-9471-a3f5a2532da9-1684820547128b445a-1": {
+          "type": "text",
+          "settings": {
+            "text": "What ever you call it, you don't even need to golf, Birds is a happy place for all where pure swings, pre-tee refreshments & good times are a plenty. Rollin off the beach & onto the greens with your mates is where it’s at with our brand outta Byron Bay, Australia.",
+            "text_style": "body"
+          }
+        },
+        "template--19119007760703__4a9f0178-9ece-45b8-9471-a3f5a2532da9-1684820547128b445a-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "About Us",
+            "button_link_1": "shopify:\/\/pages\/about-us",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19119007760703__4a9f0178-9ece-45b8-9471-a3f5a2532da9-1684820547128b445a-0",
+        "template--19119007760703__4a9f0178-9ece-45b8-9471-a3f5a2532da9-1684820547128b445a-1",
+        "template--19119007760703__4a9f0178-9ece-45b8-9471-a3f5a2532da9-1684820547128b445a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/birds-of-condor-coogi_3000x_c4573bef-033f-4550-acf7-c0755cb3b158.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "168488975376fc91fd": {
+      "type": "apps",
+      "blocks": {
+        "dde934f3-7b13-4038-9c0b-fadf4bc2c51d": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "dde934f3-7b13-4038-9c0b-fadf4bc2c51d"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "c3c0821d-1e6e-458b-8282-66a9e16d4aef": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19119007760703__c3c0821d-1e6e-458b-8282-66a9e16d4aef-1684914825a686cfb8-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GolfDigest_02d2427e-051b-4744-ae8b-d229142ddb6b.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1047eba1-6c66-4ef9-8914-16d168254591": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gq_dfda0865-dec0-49a6-a7ed-b99dd36de7ae.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/www.gq.com\/gallery\/golf-shirts-for-men"
+          }
+        },
+        "afc0b404-439d-40ca-a47a-de654018fab2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hypebeast_63954dc7-5462-4a23-a3ef-430676277b55.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/www.gq.com\/gallery\/golf-shirts-for-men"
+          }
+        },
+        "c84ef760-cd32-4490-bac5-0f2b1f32e84a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/golf.com_b218c2c9-334c-495f-9c6b-c784eca9e689.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0d65e503-df4c-4858-b5a6-cfbf4ebaeb83": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/caddie_d34275ac-feff-4a00-aae2-a22a84b0f0e0.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "91d90782-bbfa-42eb-9d82-1cabdf0e0998": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bloomberg_64bfae6a-2a7c-40d6-b5d1-4e6e771fbadd.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19119007760703__c3c0821d-1e6e-458b-8282-66a9e16d4aef-1684914825a686cfb8-0",
+        "1047eba1-6c66-4ef9-8914-16d168254591",
+        "afc0b404-439d-40ca-a47a-de654018fab2",
+        "c84ef760-cd32-4490-bac5-0f2b1f32e84a",
+        "0d65e503-df4c-4858-b5a6-cfbf4ebaeb83",
+        "91d90782-bbfa-42eb-9d82-1cabdf0e0998"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {text-align: center; display: block; width: 100%; text-transform: uppercase; font-size: 1.2rem;}"
+      ],
+      "settings": {
+        "title": "Featured In",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "5c0a4ece-e51f-4ed3-9f1b-80630e150a5f": {
+      "type": "page",
+      "custom_css": [
+        "h2 {text-align: center; display: block; width: 100%; text-transform: uppercase; font-size: 1.2rem;}"
+      ],
+      "settings": {
+        "page": "featured-in",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "654493f5-4bf2-4f04-a47d-1223dace1879",
+    "image_banner",
+    "023ca449-0f83-4200-8a10-5641988f7660",
+    "featured_collection",
+    "4a9f0178-9ece-45b8-9471-a3f5a2532da9",
+    "168488975376fc91fd",
+    "c3c0821d-1e6e-458b-8282-66a9e16d4aef",
+    "5c0a4ece-e51f-4ed3-9f1b-80630e150a5f"
+  ]
+}
