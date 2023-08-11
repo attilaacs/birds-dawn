@@ -180,7 +180,28 @@
                 </li>
               {%- endfor -%}
             </ul>
-
+<!--AA//-->
+<div id="AjaxinatePagination">
+      {% if paginate.next %}
+        <a 
+          style="text-align:center; display:block;"
+          class="pagination__item pagination__item--prev pagination__item-arrow link motion-reduce"
+          href="{{ paginate.next.url }}">Loading More</a>
+      {% endif %}
+    </div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var endlessScroll = new Ajaxinate({
+  container: '#product-grid',
+  pagination: '#AjaxinatePagination'
+  });
+  var paginationWrapper = document.querySelector('.pagination-wrapper');
+  if (paginationWrapper) {
+    paginationWrapper.style.display = 'none';
+  }
+});
+</script>
+<!--AA//-->
             {%- if paginate.pages > 1 -%}
               {% render 'pagination', paginate: paginate, anchor: '' %}
             {%- endif -%}
