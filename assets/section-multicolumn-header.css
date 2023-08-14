@@ -1,3 +1,19 @@
+/* AA START */
+.media>a>*:not(.zoom):not(.deferred-media__poster-button), .media a model-viewer {
+  display: block;
+  max-width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+.media>a>img {
+  object-fit: cover;
+  object-position: center center;
+  transition: opacity .4s cubic-bezier(.25,.46,.45,.94);
+}
+/* AA END */
 .multicolumn-header .title {
   margin: 0;
 }
