@@ -1,9 +1,9 @@
 {
   "sections": {
-    "d419ed92-41de-44f7-bd04-bf06a8e68ee1": {
-      "type": "multicolumn",
+    "2154564f-d887-44f6-93d1-c7f6c10a3ad1": {
+      "type": "multicolumn-header",
       "blocks": {
-        "template--20438530130239__d419ed92-41de-44f7-bd04-bf06a8e68ee1-column-1": {
+        "template--20438530130239__2154564f-d887-44f6-93d1-c7f6c10a3ad1-column-1": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/ColourBlock_a19ad286-210b-4820-b523-2c2c1195281d_2000x_copy.jpg",
@@ -13,7 +13,7 @@
             "link": "shopify:\/\/collections\/colour-block"
           }
         },
-        "template--20438530130239__d419ed92-41de-44f7-bd04-bf06a8e68ee1-column-2": {
+        "template--20438530130239__2154564f-d887-44f6-93d1-c7f6c10a3ad1-column-2": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/KeeperOfTheGreens_2000x_b2ac683f-0984-4cd8-ace6-0cf28ff8155a.jpg",
@@ -25,12 +25,12 @@
         }
       },
       "block_order": [
-        "template--20438530130239__d419ed92-41de-44f7-bd04-bf06a8e68ee1-column-1",
-        "template--20438530130239__d419ed92-41de-44f7-bd04-bf06a8e68ee1-column-2"
+        "template--20438530130239__2154564f-d887-44f6-93d1-c7f6c10a3ad1-column-1",
+        "template--20438530130239__2154564f-d887-44f6-93d1-c7f6c10a3ad1-column-2"
       ],
       "settings": {
         "title": "",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 2,
@@ -40,7 +40,7 @@
         "button_link": "",
         "color_scheme": "inverse",
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -437,7 +437,7 @@
     }
   },
   "order": [
-    "d419ed92-41de-44f7-bd04-bf06a8e68ee1",
+    "2154564f-d887-44f6-93d1-c7f6c10a3ad1",
     "654493f5-4bf2-4f04-a47d-1223dace1879",
     "image_banner",
     "023ca449-0f83-4200-8a10-5641988f7660",
