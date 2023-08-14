@@ -22,11 +22,22 @@
             "link_label": "Shop Now",
             "link": "shopify:\/\/collections\/green-keeper"
           }
+        },
+        "024ab73a-15b7-408a-aea5-fe8c55044694": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/birds-of-condor-coogi_3000x_a3077de1-759b-472a-9276-9ecff4beab5e.jpg",
+            "title": "GOLF CLOTHING, APPAREL, GOLF WEAR...",
+            "text": "<p>What ever you call it, you don't even need to golf, Birds is a happy place for all where pure swings, pre-tee refreshments & good times are a plenty. Rollin off the beach & onto the greens with your mates is where it’s at with our brand outta Byron Bay, Australia.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--20438530130239__2154564f-d887-44f6-93d1-c7f6c10a3ad1-column-1",
-        "template--20438530130239__2154564f-d887-44f6-93d1-c7f6c10a3ad1-column-2"
+        "template--20438530130239__2154564f-d887-44f6-93d1-c7f6c10a3ad1-column-2",
+        "024ab73a-15b7-408a-aea5-fe8c55044694"
       ],
       "settings": {
         "title": "",
