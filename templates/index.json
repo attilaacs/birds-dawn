@@ -1,5 +1,50 @@
 {
   "sections": {
+    "d419ed92-41de-44f7-bd04-bf06a8e68ee1": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20438530130239__d419ed92-41de-44f7-bd04-bf06a8e68ee1-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ColourBlock_a19ad286-210b-4820-b523-2c2c1195281d_2000x_copy.jpg",
+            "title": "Color Block",
+            "text": "<p>Stay Classy Kids<\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/colour-block"
+          }
+        },
+        "template--20438530130239__d419ed92-41de-44f7-bd04-bf06a8e68ee1-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KeeperOfTheGreens_2000x_b2ac683f-0984-4cd8-ace6-0cf28ff8155a.jpg",
+            "title": "KEEPER OF THE GREENS",
+            "text": "<p>Lawnmower, weed whacker and gopher lovers unite!<\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/green-keeper"
+          }
+        }
+      },
+      "block_order": [
+        "template--20438530130239__d419ed92-41de-44f7-bd04-bf06a8e68ee1-column-1",
+        "template--20438530130239__d419ed92-41de-44f7-bd04-bf06a8e68ee1-column-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "654493f5-4bf2-4f04-a47d-1223dace1879": {
       "type": "slideshow",
       "blocks": {
@@ -391,6 +436,7 @@
     }
   },
   "order": [
+    "d419ed92-41de-44f7-bd04-bf06a8e68ee1",
     "654493f5-4bf2-4f04-a47d-1223dace1879",
     "image_banner",
     "023ca449-0f83-4200-8a10-5641988f7660",
