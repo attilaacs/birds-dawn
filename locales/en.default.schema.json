@@ -2623,7 +2623,7 @@
         }
       },
       "presets": {
-        "name": "Multicolumn"
+        "name": "Multicolumn Header"
       }
     },
     "newsletter": {
