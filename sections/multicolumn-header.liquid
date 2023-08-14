@@ -25,7 +25,7 @@
 
 <div class="multicolumn-header color-{{ section.settings.color_scheme }} gradient{% unless section.settings.background_style == 'none' and settings.text_boxes_border_thickness > 0 or settings.text_boxes_shadow_opacity > 0 %} background-{{ section.settings.background_style }}{% endunless %}{% if section.settings.title == blank %} no-heading{% endif %}">
   <div
-    class="page-width section-{{ section.id }}-padding isolate{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
+    class="section-{{ section.id }}-padding isolate{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
     {% if settings.animations_reveal_on_scroll %}
       data-cascade
     {% endif %}
@@ -87,6 +87,12 @@
                       style="padding-bottom: {{ 1 | divided_by: highest_ratio | times: 100 }}%;"
                     {% endif %}
                   >
+                    {%- if block.settings.link != blank -%}
+                      <a
+                        class="link animate-arrow"
+                        href="{{ block.settings.link }}"
+                      >
+                    {%- endif -%}
                     {%- liquid
                       assign number_of_columns = section.settings.columns_desktop
                       assign number_of_columns_mobile = section.settings.columns_mobile
@@ -116,6 +122,9 @@
                         sizes: sizes,
                         class: 'multicolumn-header-card__image'
                     }}
+                    {%- if block.settings.link != blank -%}
+                      </a>
+                    {%- endif -%}
                   </div>
                 </div>
               {%- endif -%}
