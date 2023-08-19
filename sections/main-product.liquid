@@ -179,7 +179,7 @@
             {%- when 'custom_liquid' -%}
               {{ block.settings.custom_liquid }}
             {%- when 'collapsible_tab' -%}
-              <!-- AA //-->
+              <!-- AA hide the size chart if we don't have one assigned //-->
               {% if block.settings.page.content != null or block.settings.content != '' %}
               <!-- AA //-->
               <div class="product__accordion accordion quick-add-hidden" {{ block.shopify_attributes }}>
