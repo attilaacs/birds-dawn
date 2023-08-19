@@ -9,19 +9,9 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
-    },
-    "1cd966bd-a6cf-4dc7-a56f-35bb820c42d3": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"product-listing\">\n{% capture expected_page_id %}gid:\/\/shopify\/OnlineStorePage\/{{ page.id }}{% endcapture %}\n\n{{expected_page_id}}\n\n  {% assign linked_products = collections.all.products | where: 'product.metafields.custom.size_chart_page', 'gid:\/\/shopify\/OnlineStorePage\/125776560447' %}\n\n{{linked_products}}\n\n  {% for product in linked_products %}\n    <div class=\"product\">\n      <h2>{{ product.title }}<\/h2>\n      <p>{{ product.price | money }}<\/p>\n      <!-- Other product details and markup here -->\n    <\/div>\n  {% endfor %}\n<\/div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
-    "main",
-    "1cd966bd-a6cf-4dc7-a56f-35bb820c42d3"
+    "main"
   ]
 }
