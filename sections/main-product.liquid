@@ -180,7 +180,7 @@
               {{ block.settings.custom_liquid }}
             {%- when 'collapsible_tab' -%}
               <!-- AA //-->
-              {% if block.settings.page.content != null %}
+              {% if block.settings.page.content != null or block.settings.content != null %}
               <!-- AA //-->
               <div class="product__accordion accordion quick-add-hidden" {{ block.shopify_attributes }}>
                 <details id="Details-{{ block.id }}-{{ section.id }}">
