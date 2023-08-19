@@ -13,7 +13,7 @@
     "1cd966bd-a6cf-4dc7-a56f-35bb820c42d3": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"product-listing\">\n  {% for product in collections.all.products %}\n    {% if product.metafields.custom.sizechart_page == page.url %}\n      <div class=\"product\">\n        <h2>{{ product.title }}<\/h2>\n        <p>{{ product.price | money }}<\/p>\n        <!-- Other product details and markup here -->\n      <\/div>\n    {% endif %}\n  {% endfor %}\n<\/div>",
+        "custom_liquid": "<div class=\"product-listing\">\n  {% for product in collections.all.products %}\n{{product.metafields.custom.size_chart_page}}\n    {% if product.metafields.custom.size_chart_page == page.url %}\n      <div class=\"product\">\n        <h2>{{ product.title }}<\/h2>\n        <p>{{ product.price | money }}<\/p>\n        <!-- Other product details and markup here -->\n      <\/div>\n    {% endif %}\n  {% endfor %}\n<\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
