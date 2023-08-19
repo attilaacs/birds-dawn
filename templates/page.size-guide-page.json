@@ -9,9 +9,19 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "a6ef5a62-5057-4f13-8554-bda2446a4992": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% for product in shop.products %}\n  {% assign metafield_value = product.metafields.custom.size_chart_page %}\n\n<script>\nconsole.log ('metafield_value: ', {{ metafield_value | json }});\n<\/script>\n\n\n  {% if metafield_value != null %}\n    <!-- Display product information here -->\n    <h2>{{ product.title }}<\/h2>\n    <!-- Add more product details as needed -->\n  {% endif %}\n{% endfor %}",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "a6ef5a62-5057-4f13-8554-bda2446a4992"
   ]
 }
