@@ -13,7 +13,7 @@
     "a6ef5a62-5057-4f13-8554-bda2446a4992": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h2>All Product Images<\/h2>\n{% for product in collections['all'].products %}\n\n{% assign metafield_value = product.metafields.custom.size_chart_page %}\n{{metafield_value}}\n  \n \n{% endfor %}\n\n<script>\nconsole.log ('STARTING');\n<\/script>\n\n{% for product in shop.products %}\n  {% assign metafield_value = product.metafields.custom.size_chart_page %}\n\n<script>\nconsole.log ('metafield_value: ', {{ metafield_value | json }});\n<\/script>\n\n\n  {% if metafield_value != null %}\n    <!-- Display product information here -->\n    <h2>{{ product.title }}<\/h2>\n    <!-- Add more product details as needed -->\n  {% endif %}\n{% endfor %}",
+        "custom_liquid": "<h2>All Product Images (count: {{}})<\/h2>\n{% for product in collections['all'].products %}\n\n{% assign metafield_value = product.metafields.custom.size_chart_page %}\n{{metafield_value}}\n  \n \n{% endfor %}\n\n<script>\nconsole.log ('STARTING');\n<\/script>\n\n{% for product in shop.products %}\n  {% assign metafield_value = product.metafields.custom.size_chart_page %}\n\n<script>\nconsole.log ('metafield_value: ', {{ metafield_value | json }});\n<\/script>\n\n\n  {% if metafield_value != null %}\n    <!-- Display product information here -->\n    <h2>{{ product.title }}<\/h2>\n    <!-- Add more product details as needed -->\n  {% endif %}\n{% endfor %}",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
