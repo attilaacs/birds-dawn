@@ -53,7 +53,6 @@
         },
         "cbe9cb73-8168-459b-a3a4-df6856cbb455": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Size Chart",
             "icon": "ruler",
