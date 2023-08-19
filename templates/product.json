@@ -73,6 +73,15 @@
             "image_ratio": "square",
             "enable_quick_add": true
           }
+        },
+        "45d1ed9e-a445-453d-a43e-20ee4ae68d9e": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "content": "<p>test content<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -85,7 +94,8 @@
         "share",
         "1e31b35c-7064-4775-a0d2-248bac7e2a7b",
         "cbe9cb73-8168-459b-a3a4-df6856cbb455",
-        "399e6ae0-75d4-4603-989c-a3af12e81858"
+        "399e6ae0-75d4-4603-989c-a3af12e81858",
+        "45d1ed9e-a445-453d-a43e-20ee4ae68d9e"
       ],
       "custom_css": [
         "h1 {font-size: 24px;}"
