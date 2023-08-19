@@ -88,7 +88,7 @@
       ],
       "custom_css": [
         "h1 {font-size: 24px;}",
-        ".accordion__content table:not([class]) {font-size: 80%;}",
+        ".accordion__content table:not([class]) {font-size: 80%; line-height: 1.2;}",
         ".accordion__content img {border: none;}"
       ],
       "settings": {
