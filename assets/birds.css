@@ -1,3 +1,11 @@
+/* REVIEW SECTION START */
 .spr-button-primary {
   padding:1em 2em; 
 }
+/* REVIEW SECTION END */
+/* PAYMENT ICONS START */
+.footer__payment .list-payment__item .icon{
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+ }
+ /* PAYMENT ICONS END */
