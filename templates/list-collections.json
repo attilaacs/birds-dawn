@@ -20,35 +20,21 @@
           "settings": {
             "collection": "tokyo-country-club"
           }
-        },
-        "b4367b75-d06a-4fb8-90f9-5afe19eb2931": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "headwear"
-          }
-        },
-        "c295e2d5-f585-4dce-a6d6-34e9a92419f1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "accessories"
-          }
         }
       },
       "block_order": [
         "template--20438529933631__c4a110d6-39f9-49ae-801a-a48b7da139df-featured_collection-1",
         "template--20438529933631__c4a110d6-39f9-49ae-801a-a48b7da139df-featured_collection-2",
-        "template--20438529933631__c4a110d6-39f9-49ae-801a-a48b7da139df-featured_collection-3",
-        "b4367b75-d06a-4fb8-90f9-5afe19eb2931",
-        "c295e2d5-f585-4dce-a6d6-34e9a92419f1"
+        "template--20438529933631__c4a110d6-39f9-49ae-801a-a48b7da139df-featured_collection-3"
       ],
       "settings": {
         "title": "Featured Collections",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 3,
         "color_scheme": "background-1",
         "show_view_all": false,
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
@@ -60,7 +46,7 @@
         "title": "All Collections",
         "sort": "date_reversed",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "columns_mobile": "2"
       }
     }
