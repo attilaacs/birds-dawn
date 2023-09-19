@@ -59,7 +59,7 @@
       "settings": {
         "title": "All Collections",
         "sort": "date_reversed",
-        "image_ratio": "square",
+        "image_ratio": "portrait",
         "columns_desktop": 3,
         "columns_mobile": "2"
       }
