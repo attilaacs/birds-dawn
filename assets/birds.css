@@ -4,7 +4,7 @@
 }
 /* REVIEW SECTION END */
 /* PAYMENT ICONS START */
-.footer__payment .list-payment__item .icon{
+.footer__payment .list-payment__item svg{
   filter: grayscale(100%);
   -webkit-filter: grayscale(100%);
  }
