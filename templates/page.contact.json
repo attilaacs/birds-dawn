@@ -1,1 +1,38 @@
-{"sections":{"main":{"type":"main-page","custom_css":["h1 {text-align:center;}"],"settings":{"padding_top":36,"padding_bottom":36}},"form":{"type":"contact-form","settings":{"heading":"","heading_size":"h2","color_scheme":"background-1","padding_top":36,"padding_bottom":36}}},"order":["main","form"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h1 {text-align: center;}"
+      ],
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d4631f4b-a684-4c84-ab77-bdc45136e253": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- Modal HTML -->\n<div id=\"geoModal\" class=\"modal\">\n  <div class=\"modal-content\">\n    <span class=\"close\" id=\"closeModal\">&times;<\/span>\n    <div id=\"geoModalContent\"><h2>It looks like you're not in the USA<\/h2><p>For all international orders, please visit our <a href=\"https:\/\/birdsofcondor.com\" style=\"color: #222;font-weight: bold;\">Australian\/International store<\/a>.<\/p><p><small><a href=\"https:\/\/birdsofcondor.com\" style=\"text-decoration: none; color: #999;\">Continue to USA site<\/a><\/small><\/p><\/div>\n  <\/div>\n<\/div>\n\n<style>\n\/* Modal CSS *\/\n.modal {\n  display: none;\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  background-color: rgba(0, 0, 0, 0.7);\nz-index:10;\n}\n\n.modal-content {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  background-color: #fff;\n  padding: 20px;\n  border-radius: 5px;\n  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);\n}\n.modal-content h2,\n.modal-content p {\ntext-align:center;\n}\n.close {\n  position: absolute;\n  top: 0;\n  right: 0;\nline-height:1;\n  padding: 10px;\n  cursor: pointer;\n}\n\n<\/style>\n<script>\n\/\/ Function to show the modal with data\nfunction showModal(data) {\n  const modal = document.getElementById('geoModal');\n  const closeModal = document.getElementById('closeModal');\n  modal.style.display = 'block';\n\n  \/\/ Close the modal when the close button is clicked\n  closeModal.addEventListener('click', () => {\n    modal.style.display = 'none';\n  });\n}\n\n\/\/ Fetch data and show modal when data is loaded\nfetch('https:\/\/ipapi.co\/json\/')\n  .then(response => {\n    if (!response.ok) {\n      throw new Error('Network response was not ok');\n    }\n    return response.json();\n  })\n  .then(data => {\n    if (data.country !== \"US\") {\n      showModal(data);\n    }\n    \n  })\n  .catch(error => {\n    console.error('Error:', error);\n  });\n\n<\/script>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "form",
+    "d4631f4b-a684-4c84-ab77-bdc45136e253"
+  ]
+}
