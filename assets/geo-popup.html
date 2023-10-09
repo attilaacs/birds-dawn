@@ -1,0 +1,83 @@
+<!-- Modal HTML -->
+<div id="geoModal" class="modal">
+  <div class="modal-content">
+    <div id="geoModalContent"><h2>It looks like you're not in the USA 🇺🇸</h2><p>For all international orders, <br />please visit our <a href="https://birdsofcondor.com" style="color: #222;font-weight: bold;">Australian/International store</a>.</p><p><small><a id="closeGEOModal" href="#" style="text-decoration: none; color: #999;">Continue to USA site</a></small></p></div>
+  </div>
+</div>
+
+<style>
+/* Modal CSS */
+.modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+z-index:10;
+}
+
+.modal-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+.modal-content h2,
+.modal-content p {
+text-align:center;
+}
+
+</style>
+<script>
+// Function to show the modal with data
+function showModal(data) {
+  const modal = document.getElementById('geoModal');
+  const closeModal = document.getElementById('closeGEOModal');
+  modal.style.display = 'block';
+
+  // Close the modal when the close button is clicked
+  closeModal.addEventListener('click', () => {
+    modal.style.display = 'none';
+    // Store the timestamp in local storage
+    localStorage.setItem('modalClosedTimestamp', Date.now());
+  });
+}
+
+// Check if the modal should be shown
+function checkAndShowModal() {
+  // Get the timestamp when the modal was last closed
+  const lastClosedTimestamp = localStorage.getItem('modalClosedTimestamp');
+console.log("lastClosedTimestamp: "+lastClosedTimestamp);
+  // If the modal has never been closed or it was closed more than 24 hours ago, show the modal
+  if (!lastClosedTimestamp || (Date.now() - Number(lastClosedTimestamp)) >= 24 * 60 * 60 * 1000) {
+    // Fetch data and show modal when data is loaded
+fetch('https://ipapi.co/json/')
+.then(response => {
+  if (!response.ok) {
+    throw new Error('Network response was not ok');
+  }
+  return response.json();
+})
+.then(data => {
+  if (data.country !== "US") {
+    showModal();
+  }
+  
+})
+.catch(error => {
+  console.error('Error:', error);
+});
+  }
+}
+// Call checkAndShowModal when the page loads
+window.addEventListener('load', checkAndShowModal);
+
+
+
+</script>
