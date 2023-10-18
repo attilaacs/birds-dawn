@@ -226,7 +226,7 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "sand-trap-staple-party-shirt",
+            "product": "sand-trap-tan-golf-party-shirt",
             "second_image": true
           }
         },
@@ -275,7 +275,7 @@
       "type": "apps",
       "blocks": {
         "b7b7bb96-8b3e-476f-89dc-af1a162ec46c": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_size": 20,
             "feed_width": 100,
