@@ -56,7 +56,7 @@
       {%- assign background_color = value | split: ' ' | last | handle -%}
       {%- assign color_style = 'width:42px;height:42px;border-radius:100%;background-image: url('
         | append: soldout_img_url
-        | append: '); background-image: url('
+        | append: ','
         | append: img_url
         | append: '); background-color: '
         | append: background_color
