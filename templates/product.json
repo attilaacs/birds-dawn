@@ -13,6 +13,12 @@
           "settings": {
           }
         },
+        "1f9a5c1f-f89f-4ff3-9701-1bdf7a26f11f": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0765\/5486\/2911\/files\/PayPal_logo_h_150x38_1e1dc152-1bc3-4e51-afca-a3b3f8391419.png?v=1697830006\" width=\"75\" height=\"19\" \/>"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -77,6 +83,7 @@
       "block_order": [
         "title",
         "price",
+        "1f9a5c1f-f89f-4ff3-9701-1bdf7a26f11f",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
