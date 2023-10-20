@@ -52,10 +52,9 @@
     {%- assign downcased_option = option.name | downcase -%}
     {%- assign soldout_img_style = '' -%}
     {% if downcased_option contains 'color' or downcased_option contains 'colour' %}
-      <!-- AA Colour Swatches option_disabled // -->
       {%- assign soldout_img_url = 'sold-out.png' | asset_url | prepend: 'https:' -%}
       {% if option_disabled %}
-        {%- assign soldout_img_style = 'url(' | soldout_img_url | append: '),' -%}
+        {%- assign soldout_img_style = soldout_img_url | append: '),' | prepend: 'url(' -%}
       {% endif %}
       {%- assign img_url = value | handle | append: '.png' | asset_img_url: '50x' | prepend: 'https:' -%}
       {%- assign background_color = value | split: ' ' | last | handle -%}
