@@ -68,7 +68,10 @@
         class="disabled"
       {% endif %}
     >
-    <label for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
+    <label
+      for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}"
+      style="background-image: url({{ value | handle | append: '.png' | asset_img_url: '50x' | prepend: 'https:' }}); background-color: {{ value | split: ' ' | last | handle }};"
+    >
       <!-- AA Start// -->
       {% unless is_color %}
         <!-- AA End// -->
