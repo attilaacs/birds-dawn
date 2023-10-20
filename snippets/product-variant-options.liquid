@@ -70,11 +70,11 @@
     >
     <label for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
       <!-- AA Start// -->
-      {% if !is_color %}
+      {% unless is_color %}
         <!-- AA End// -->
         {{ value -}}
         <!-- AA Start// -->
-      {% endif %}
+      {% endunless %}
       <!-- AA End// -->
       <span class="visually-hidden">{{ 'products.product.variant_sold_out_or_unavailable' | t }}</span>
     </label>
