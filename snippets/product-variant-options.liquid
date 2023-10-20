@@ -46,6 +46,15 @@
   -%}
 
   {%- if block.settings.picker_type == 'button' -%}
+    <!-- AA Colour Swatches// -->
+    {%- assign color_class = '' -%}
+    {%- assign is_color = false -%}
+    {%- assign downcased_option = option.name | downcase -%}
+    {% if downcased_option contains 'color' or downcased_option contains 'colour' %}
+      {%- assign color_class = 'color' -%}
+      {%- assign is_color = true -%}
+    {% endif %}
+    <!-- AA Colour Swatches// -->
     <input
       type="radio"
       id="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}"
@@ -60,8 +69,13 @@
       {% endif %}
     >
     <label for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
-      {{ value -}}
-      {{ value | escape }}
+      <!-- AA Start// -->
+      {% if !is_color %}
+        <!-- AA End// -->
+        {{ value -}}
+        <!-- AA Start// -->
+      {% endif %}
+      <!-- AA End// -->
       <span class="visually-hidden">{{ 'products.product.variant_sold_out_or_unavailable' | t }}</span>
     </label>
   {%- elsif block.settings.picker_type == 'dropdown' -%}
