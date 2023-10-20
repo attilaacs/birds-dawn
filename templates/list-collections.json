@@ -9,23 +9,23 @@
             "collection": "new"
           }
         },
-        "template--20438529933631__c4a110d6-39f9-49ae-801a-a48b7da139df-featured_collection-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "sale"
-          }
-        },
         "template--20438529933631__c4a110d6-39f9-49ae-801a-a48b7da139df-featured_collection-3": {
           "type": "featured_collection",
           "settings": {
             "collection": "tokyo-country-club"
           }
+        },
+        "8bc0d93d-9ccb-44f7-ae54-1d6782c9a6ed": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "osaka-country-club"
+          }
         }
       },
       "block_order": [
         "template--20438529933631__c4a110d6-39f9-49ae-801a-a48b7da139df-featured_collection-1",
-        "template--20438529933631__c4a110d6-39f9-49ae-801a-a48b7da139df-featured_collection-2",
-        "template--20438529933631__c4a110d6-39f9-49ae-801a-a48b7da139df-featured_collection-3"
+        "template--20438529933631__c4a110d6-39f9-49ae-801a-a48b7da139df-featured_collection-3",
+        "8bc0d93d-9ccb-44f7-ae54-1d6782c9a6ed"
       ],
       "settings": {
         "title": "Featured Collections",
