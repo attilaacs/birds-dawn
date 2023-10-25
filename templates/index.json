@@ -450,7 +450,7 @@
       "type": "page",
       "custom_css": [
         "h2 {text-align: center; display: block; width: 100%; text-transform: uppercase; font-size: 1.2rem;}",
-        "div {max-width: 120rem; margin: 0 auto;}"
+        "div {max-width: 140rem; margin: 0 auto;}"
       ],
       "settings": {
         "page": "featured-in",
