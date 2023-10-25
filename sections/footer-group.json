@@ -54,7 +54,8 @@
         ".list-social__link svg.icon-tumblr {display: none;}",
         "svg {color: #999999;}",
         "h2 {font-size: 12px; text-transform: uppercase; font-weight: normal !important;}",
-        ".footer-block__details-content .list-menu__item--link,p {font-size: 1.2rem; line-height: 1;}"
+        ".footer-block__details-content .list-menu__item--link,p {font-size: 1.2rem; line-height: 1;}",
+        "ul.policies {text-transform: capitalize;}"
       ],
       "settings": {
         "color_scheme": "background-1",
