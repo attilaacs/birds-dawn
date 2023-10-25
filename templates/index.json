@@ -142,8 +142,8 @@
         "5ea3350c-55dc-4556-a1e3-a86cc7110599"
       ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
+        "layout": "grid",
+        "slide_height": "large",
         "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 5,
