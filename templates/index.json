@@ -246,6 +246,15 @@
         "padding_bottom": 36
       }
     },
+    "97162dee-58ea-4d77-97fb-c9a7cc6557db": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0765\/5486\/2911\/files\/peace-love-and-putts_800x_a7d7e921-a67c-47ef-8da2-0ab74d9fde5c.png?v=1698212857\" style=\"display:block;max-width:300px;margin:0 auto;\"\/>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
@@ -456,6 +465,7 @@
     "654493f5-4bf2-4f04-a47d-1223dace1879",
     "image_banner",
     "023ca449-0f83-4200-8a10-5641988f7660",
+    "97162dee-58ea-4d77-97fb-c9a7cc6557db",
     "featured_collection",
     "4a9f0178-9ece-45b8-9471-a3f5a2532da9",
     "168488975376fc91fd",
