@@ -141,6 +141,9 @@
         "4a57b806-ce7c-40a3-b0bf-43a48effbfc3",
         "5ea3350c-55dc-4556-a1e3-a86cc7110599"
       ],
+      "custom_css": [
+        "slideshow-component {max-width: 100%; padding:0;}"
+      ],
       "settings": {
         "layout": "grid",
         "slide_height": "large",
