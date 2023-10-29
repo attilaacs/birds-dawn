@@ -1,11 +1,40 @@
 <!-- Modal HTML -->
 <div id="geoModal" class="modal">
   <div class="modal-content">
-    <div id="geoModalContent"><h2>It looks like you're not in the USA 🇺🇸</h2><p>For all international orders, <br />please visit our <a href="https://birdsofcondor.com" style="color: #222;font-weight: bold;">Australian/International store</a>.</p><p><small><a id="closeGEOModal" href="#" style="text-decoration: none; color: #999;">Continue to USA site</a></small></p></div>
+    <div id="geoModalContent"><h2>It looks like you're not in the USA 🇺🇸</h2><p>For all orders shipped outside of the USA,<br/>please <a href="https://birdsofcondor.com" style="color:#222;font-weight:bold;">visit our Australian / International store</a>:</p><p><a href="https://birdsofcondor.com" class="primarybutton">Continue</a></p><p><small><a id="closeGEOModal" href="#" class="secondarybutton">Stay on USA site</a></small></p></div>
   </div>
 </div>
 
 <style>
+.secondarybutton {
+  text-decoration: none;
+  color: #999;
+  background: #e4e4e4;
+  display: inline-block;
+  padding: 5px 15px;
+  border-radius: 3px;
+  font-size: 12px;
+  line-height: 1.4;
+}
+.secondarybutton:hover {
+  color: #6a6a6a;
+  background: #c1c1c1;
+}
+.primarybutton {
+  color: #ffffff;
+    display: inline-block;
+    background: #349b32;
+    line-height: 1.4;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
+    padding: 15px 35px;
+    border-radius: 3px;
+    width:90%;
+}
+.primarybutton:hover {
+  background-color: #222;
+}
 /* Modal CSS */
 .modal {
   display: none;
@@ -19,6 +48,7 @@ z-index:10;
 }
 
 .modal-content {
+  max-width: 500px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -27,6 +57,11 @@ z-index:10;
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+@media only screen and (max-width: 600px) {
+  .modal-content {
+    width:100%;
+  }
 }
 .modal-content h2,
 .modal-content p {
