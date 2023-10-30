@@ -464,7 +464,7 @@
       "type": "featured-blog",
       "custom_css": [
         "h2 {text-align: center; text-transform: uppercase; font-size: 1.2rem; display: block; width: 100%;}",
-        "p.article-card__excerpt {display:none;}"
+        "p.article-card__excerpt {display: none;}"
       ],
       "settings": {
         "heading": "The 19th",
