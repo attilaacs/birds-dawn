@@ -3,7 +3,7 @@
     "main": {
       "type": "main-blog",
       "custom_css": [
-        "h2 {font-size: 12px;}"
+        "h3 {font-size: 18px;}"
       ],
       "settings": {
         "layout": "grid",
