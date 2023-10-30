@@ -5,13 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <!-- AA -->
+    {% comment %}
+      AA Added this to be able to use canonical links when adding content from the main site to the US site. Requires the custom meta field canonical_url in Blog Posts
+    {% endcomment %}
     {% if article.metafields.custom.canonical_url %}
       <link rel="canonical" href="{{ article.metafields.custom.canonical_url }}">
     {% else %}
       <link rel="canonical" href="{{ canonical_url }}">
     {% endif %}
-    <!-- AA -->
+    {% comment %}
+      AA End Added
+    {% endcomment %}
     {%- if settings.favicon != blank -%}
       <link rel="icon" type="image/png" href="{{ settings.favicon | image_url: width: 32, height: 32 }}">
     {%- endif -%}
