@@ -463,7 +463,8 @@
     "5243bb7d-36ef-4f49-afac-30b630d23f88": {
       "type": "featured-blog",
       "custom_css": [
-        "h2 {text-align: center; text-transform: uppercase; font-size: 1.2rem; display: block; width: 100%;}"
+        "h2 {text-align: center; text-transform: uppercase; font-size: 1.2rem; display: block; width: 100%;}",
+        "p.article-card__excerpt {display:none;}"
       ],
       "settings": {
         "heading": "The 19th",
