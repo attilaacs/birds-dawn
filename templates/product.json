@@ -40,7 +40,7 @@
         "392726c6-e4be-4e83-a985-d2547d7f2241": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<span id=\"backinstock\" style=\"max-width: 44rem;\"><\/span>"
+            "custom_liquid": "<span id=\"backinstock\" style=\"max-width: 44rem;disply:block;\"><\/span>"
           }
         },
         "description": {
