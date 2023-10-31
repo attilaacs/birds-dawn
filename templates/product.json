@@ -40,7 +40,7 @@
         "b96f6547-1149-44e1-a707-c63249679e58": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<a class=\"klaviyo-bis-trigger\" href=\"#\">Notify Me When Available<\/a>"
+            "custom_liquid": ""
           }
         },
         "description": {
