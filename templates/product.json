@@ -37,6 +37,12 @@
             "show_gift_card_recipient": false
           }
         },
+        "392726c6-e4be-4e83-a985-d2547d7f2241": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<span id=\"backinstock\"><\/span>"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -87,6 +93,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "392726c6-e4be-4e83-a985-d2547d7f2241",
         "description",
         "share",
         "1e31b35c-7064-4775-a0d2-248bac7e2a7b",
