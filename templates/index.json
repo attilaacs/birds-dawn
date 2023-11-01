@@ -61,6 +61,24 @@
     "654493f5-4bf2-4f04-a47d-1223dace1879": {
       "type": "slideshow",
       "blocks": {
+        "4a57b806-ce7c-40a3-b0bf-43a48effbfc3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/battle-of-the-brands-2.jpg",
+            "heading": "Battle of the Brands",
+            "heading_size": "h2",
+            "subheading": "Devereux Golf vs. Birds of Condor – 12.02.2023 Dobson Ranch Golf Club",
+            "button_label": "Sign Up",
+            "link": "https:\/\/www.othersgolfclub.com\/secret\/p\/others-golf-club-presents-battle-of-the-brands",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-0": {
           "type": "slide",
           "settings": {
@@ -97,25 +115,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "4a57b806-ce7c-40a3-b0bf-43a48effbfc3": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/country-club-banner.png",
-            "heading": "COUNTRY CLUB",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/country-club",
-            "button_style_secondary": true,
-            "box_align": "bottom-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "5ea3350c-55dc-4556-a1e3-a86cc7110599": {
           "type": "slide",
           "settings": {
@@ -136,9 +135,9 @@
         }
       },
       "block_order": [
+        "4a57b806-ce7c-40a3-b0bf-43a48effbfc3",
         "template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-0",
         "template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-1",
-        "4a57b806-ce7c-40a3-b0bf-43a48effbfc3",
         "5ea3350c-55dc-4556-a1e3-a86cc7110599"
       ],
       "custom_css": [
@@ -340,8 +339,6 @@
         "dde934f3-7b13-4038-9c0b-fadf4bc2c51d": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
             "html_area": ""
           }
         }
