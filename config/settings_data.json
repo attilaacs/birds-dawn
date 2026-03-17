@@ -1,8 +1,17 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/BoC_Horizontal_Black500.png",
+    "logo": "shopify://shop_images/BoC_Horizontal_Black500.png",
     "logo_width": 180,
-    "favicon": "shopify:\/\/shop_images\/favicon_026d8316-ca0d-412b-80bf-2ba9becd1185.png",
+    "favicon": "shopify://shop_images/favicon_026d8316-ca0d-412b-80bf-2ba9becd1185.png",
     "type_header_font": "sans-serif",
     "heading_scale": 100,
     "type_body_font": "sans-serif",
@@ -99,18 +108,18 @@
     "sale_badge_color_scheme": "accent-1",
     "sold_out_badge_color_scheme": "inverse",
     "brand_headline": "Social",
-    "brand_description": "<p><\/p>",
+    "brand_description": "<p></p>",
     "brand_image_width": 100,
-    "social_facebook_link": "https:\/\/www.facebook.com\/BirdsofCondor\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/birdsofcondor\/",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCF1Nt57jdaYC9GQ_UvGSJAg\/videos",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/@birdsofcondor",
-    "social_twitter_link": "https:\/\/twitter.com\/birdsofcondor?lang=en",
+    "social_facebook_link": "https://www.facebook.com/BirdsofCondor/",
+    "social_instagram_link": "https://www.instagram.com/birdsofcondor/",
+    "social_youtube_link": "https://www.youtube.com/channel/UCF1Nt57jdaYC9GQ_UvGSJAg/videos",
+    "social_tiktok_link": "https://www.tiktok.com/@birdsofcondor",
+    "social_twitter_link": "https://twitter.com/birdsofcondor?lang=en",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
     "social_tumblr_link": "",
     "social_vimeo_link": "",
-    "social_discord_link": "https:\/\/discord.com\/invite\/birds",
+    "social_discord_link": "https://discord.com/invite/birds",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
@@ -118,7 +127,7 @@
     "cart_type": "drawer",
     "show_vendor": false,
     "show_cart_note": false,
-    "cart_drawer_collection": "new",
+    "cart_drawer_collection": "new-arrivals",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
@@ -133,15 +142,12 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     },
     "color_schemes": {
@@ -369,7 +375,7 @@
       "sale_badge_color_scheme": "accent-2",
       "sold_out_badge_color_scheme": "inverse",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
@@ -408,7 +414,7 @@
   "platform_customizations": {
     "custom_css": [
       "body h1,body h2,body h3,body h4,body h5,body h6 {font-weight: bold !important;}",
-      " \/* review overrides *\/.spr-form-review-rating {padding-bottom: 1rem;}",
+      " /* review overrides */.spr-form-review-rating {padding-bottom: 1rem;}",
       ".spr-form-input-text,.spr-form-input-email,.spr-form-input-textarea {padding: 1rem; font-family: sans-serif;}",
       ".section-template--19358613176639__5c0a4ece-e51f-4ed3-9f1b-80630e150a5f-padding {max-width: 100%; padding: 30px;}",
       ".section-template--19358613176639__5c0a4ece-e51f-4ed3-9f1b-80630e150a5f-padding img {max-width: 150px; height: auto; margin: 0 auto; display: block;}"
