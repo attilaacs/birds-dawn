@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "2154564f-d887-44f6-93d1-c7f6c10a3ad1": {
@@ -6,30 +15,30 @@
         "template--20438530130239__2154564f-d887-44f6-93d1-c7f6c10a3ad1-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ColourBlock_a19ad286-210b-4820-b523-2c2c1195281d_2000x_copy.jpg",
+            "image": "shopify://shop_images/ColourBlock_a19ad286-210b-4820-b523-2c2c1195281d_2000x_copy.jpg",
             "title": "Color Block",
-            "text": "<p>Stay Classy Kids<\/p>",
+            "text": "<p>Stay Classy Kids</p>",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/colour-block"
+            "link": "shopify://collections/colour-block"
           }
         },
         "template--20438530130239__2154564f-d887-44f6-93d1-c7f6c10a3ad1-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/KeeperOfTheGreens_2000x_b2ac683f-0984-4cd8-ace6-0cf28ff8155a.jpg",
+            "image": "shopify://shop_images/KeeperOfTheGreens_2000x_b2ac683f-0984-4cd8-ace6-0cf28ff8155a.jpg",
             "title": "KEEPER OF THE GREENS",
-            "text": "<p>Lawnmower, weed whacker and gopher lovers unite!<\/p>",
+            "text": "<p>Lawnmower, weed whacker and gopher lovers unite!</p>",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/green-keeper"
+            "link": "shopify://collections/green-keeper"
           }
         },
         "024ab73a-15b7-408a-aea5-fe8c55044694": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/birds-of-condor-coogi_3000x_a3077de1-759b-472a-9276-9ecff4beab5e.jpg",
+            "image": "shopify://shop_images/birds-of-condor-coogi_3000x_a3077de1-759b-472a-9276-9ecff4beab5e.jpg",
             "title": "GOLF CLOTHING, APPAREL, GOLF WEAR...",
-            "text": "<p>What ever you call it, you don't even need to golf, Birds is a happy place for all where pure swings, pre-tee refreshments & good times are a plenty. Rollin off the beach & onto the greens with your mates is where it’s at with our brand outta Byron Bay, Australia.<\/p>",
+            "text": "<p>What ever you call it, you don't even need to golf, Birds is a happy place for all where pure swings, pre-tee refreshments & good times are a plenty. Rollin off the beach & onto the greens with your mates is where it’s at with our brand outta Byron Bay, Australia.</p>",
             "link_label": "",
             "link": ""
           }
@@ -64,12 +73,12 @@
         "4a57b806-ce7c-40a3-b0bf-43a48effbfc3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/battle-of-the-brands-ani_a46033fd-0fd6-41bb-bfe0-745c0bc143eb.gif",
+            "image": "shopify://shop_images/battle-of-the-brands-ani_a46033fd-0fd6-41bb-bfe0-745c0bc143eb.gif",
             "heading": "Devereux Golf vs. Birds of Condor",
             "heading_size": "h2",
             "subheading": "2 Dec. 2023 – Dobson Ranch Golf Club, AZ",
             "button_label": "Sign Up",
-            "link": "https:\/\/www.othersgolfclub.com\/secret\/p\/others-golf-club-presents-battle-of-the-brands",
+            "link": "https://www.othersgolfclub.com/secret/p/others-golf-club-presents-battle-of-the-brands",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
@@ -82,12 +91,12 @@
         "template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ColourBlock_a19ad286-210b-4820-b523-2c2c1195281d_2000x_copy.jpg",
+            "image": "shopify://shop_images/ColourBlock_a19ad286-210b-4820-b523-2c2c1195281d_2000x_copy.jpg",
             "heading": "Color Block",
             "heading_size": "h2",
             "subheading": "Stay Classy Kids",
             "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/colour-block",
+            "link": "shopify://collections/colour-block",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": true,
@@ -100,12 +109,12 @@
         "template--19358613176639__654493f5-4bf2-4f04-a47d-1223dace1879-168708823181212dcc-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Putter-Grips-Headcovers-Banner-Greener_4000x_20ef335d-8af2-4692-a268-ee35f765a26d.jpg",
+            "image": "shopify://shop_images/Putter-Grips-Headcovers-Banner-Greener_4000x_20ef335d-8af2-4692-a268-ee35f765a26d.jpg",
             "heading": "Putter Grips & Headcovers",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/putter-grips",
+            "link": "shopify://collections/putter-grips",
             "button_style_secondary": true,
             "box_align": "bottom-center",
             "show_text_box": true,
@@ -119,12 +128,12 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/KeeperOfTheGreens_2000x_b2ac683f-0984-4cd8-ace6-0cf28ff8155a.jpg",
+            "image": "shopify://shop_images/KeeperOfTheGreens_2000x_b2ac683f-0984-4cd8-ace6-0cf28ff8155a.jpg",
             "heading": "KEEPER OF THE GREENS",
             "heading_size": "h2",
             "subheading": "Lawnmower, weed whacker and gopher lovers unite!",
             "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/green-keeper",
+            "link": "shopify://collections/green-keeper",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": true,
@@ -169,7 +178,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Purchase Now",
-            "button_link_1": "https:\/\/lords.birdsofcondor.com\/nft\/birds-of-condor-2023-09-27-1dc0?utm_campaign=Web%203%20Minted&utm_medium=email&utm_source=Mates%20of%20Condor%20%28Active%20Profiles%20for%20Campaigns%29&_kx=",
+            "button_link_1": "https://lords.birdsofcondor.com/nft/birds-of-condor-2023-09-27-1dc0?utm_campaign=Web%203%20Minted&utm_medium=email&utm_source=Mates%20of%20Condor%20%28Active%20Profiles%20for%20Campaigns%29&_kx=",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -183,7 +192,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/LOS-Shopify-banner_2000x1000_b168837b-0f1d-4936-a71d-b4566b61f66f_3000x_copy.jpg",
+        "image": "shopify://shop_images/LOS-Shopify-banner_2000x1000_b168837b-0f1d-4936-a71d-b4566b61f66f_3000x_copy.jpg",
         "image_overlay_opacity": 10,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
@@ -202,7 +211,7 @@
         "template--19119007760703__023ca449-0f83-4200-8a10-5641988f7660-1684913230756a7e84-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "headwear"
+            "collection": "hats"
           }
         },
         "577bb5d1-d518-47b7-9790-b79fffb7c961": {
@@ -249,7 +258,7 @@
     "97162dee-58ea-4d77-97fb-c9a7cc6557db": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0765\/5486\/2911\/files\/peace-love-and-putts_800x_a7d7e921-a67c-47ef-8da2-0ab74d9fde5c.png?v=1698212857\" style=\"display:block;max-width:300px;margin:0 auto;\"\/>",
+        "custom_liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0765/5486/2911/files/peace-love-and-putts_800x_a7d7e921-a67c-47ef-8da2-0ab74d9fde5c.png?v=1698212857\" style=\"display:block;max-width:300px;margin:0 auto;\"/>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
@@ -307,7 +316,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "About Us",
-            "button_link_1": "shopify:\/\/pages\/about-us",
+            "button_link_1": "shopify://pages/about-us",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -321,7 +330,7 @@
         "template--19119007760703__4a9f0178-9ece-45b8-9471-a3f5a2532da9-1684820547128b445a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/birds-of-condor-coogi_3000x_c4573bef-033f-4550-acf7-c0755cb3b158.jpg",
+        "image": "shopify://shop_images/birds-of-condor-coogi_3000x_c4573bef-033f-4550-acf7-c0755cb3b158.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "bottom-center",
@@ -338,7 +347,7 @@
       "type": "apps",
       "blocks": {
         "dde934f3-7b13-4038-9c0b-fadf4bc2c51d": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "html_area": ""
           }
@@ -357,7 +366,7 @@
         "template--19119007760703__c3c0821d-1e6e-458b-8282-66a9e16d4aef-1684914825a686cfb8-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GolfDigest_02d2427e-051b-4744-ae8b-d229142ddb6b.png",
+            "image": "shopify://shop_images/GolfDigest_02d2427e-051b-4744-ae8b-d229142ddb6b.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -367,27 +376,27 @@
         "1047eba1-6c66-4ef9-8914-16d168254591": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/gq_dfda0865-dec0-49a6-a7ed-b99dd36de7ae.png",
+            "image": "shopify://shop_images/gq_dfda0865-dec0-49a6-a7ed-b99dd36de7ae.png",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https:\/\/www.gq.com\/gallery\/golf-shirts-for-men"
+            "link": "https://www.gq.com/gallery/golf-shirts-for-men"
           }
         },
         "afc0b404-439d-40ca-a47a-de654018fab2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hypebeast_63954dc7-5462-4a23-a3ef-430676277b55.png",
+            "image": "shopify://shop_images/hypebeast_63954dc7-5462-4a23-a3ef-430676277b55.png",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https:\/\/www.gq.com\/gallery\/golf-shirts-for-men"
+            "link": "https://www.gq.com/gallery/golf-shirts-for-men"
           }
         },
         "c84ef760-cd32-4490-bac5-0f2b1f32e84a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/golf.com_b218c2c9-334c-495f-9c6b-c784eca9e689.png",
+            "image": "shopify://shop_images/golf.com_b218c2c9-334c-495f-9c6b-c784eca9e689.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -397,7 +406,7 @@
         "0d65e503-df4c-4858-b5a6-cfbf4ebaeb83": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/caddie_d34275ac-feff-4a00-aae2-a22a84b0f0e0.png",
+            "image": "shopify://shop_images/caddie_d34275ac-feff-4a00-aae2-a22a84b0f0e0.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -407,7 +416,7 @@
         "91d90782-bbfa-42eb-9d82-1cabdf0e0998": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bloomberg_64bfae6a-2a7c-40d6-b5d1-4e6e771fbadd.png",
+            "image": "shopify://shop_images/bloomberg_64bfae6a-2a7c-40d6-b5d1-4e6e771fbadd.png",
             "title": "",
             "text": "",
             "link_label": "",
